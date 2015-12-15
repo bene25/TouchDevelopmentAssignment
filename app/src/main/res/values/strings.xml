@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TouchDevelopmentAssignment</string>
+
+    <string name="title">Какая гора в России самая большая?</string>
+
+    <string name="kazbek">Казбек</string>
+
+    <string name="elbrus">Эльбрус</string>
+
+    <string name="pikPushkina">Пик Пушкина</string>
+
+    <string name="nextQuestion">Далее</string>
+
+    <string name="title2">Какой город самый холодный в России?</string>
+
+    <string name="murmansk">Мурманск</string>
+
+    <string name="norilsk">Норильск</string>
+
+    <string name="verkhoyansk">Верхоянск</string>
+
+    <string name="title3">Какой самый крупный остров в России?</string>
+
+    <string name="sakhalin">Сахалин</string>
+
+    <string name="yuzhnuy">Южный</string>
+
+    <string name="severnuy">Северный</string>
+
+    <string name="results">Результаты</string>
+
+    <string name="score">Поздравляем!\n
+        Вы ответили правильно на %1$s из %2$s вопросов.\n\n
+        Правильные ответы:\n1.Эльбрус\n2.Верхоянск\n3.Сахалин</string>
+
+    <string name="replay">Еще раз</string>
+
+</resources>
